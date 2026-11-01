@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1720 1200" width="1720" height="1200" font-family="Helvetica, Arial, sans-serif">
+<rect width="1720" height="1200" fill="#ffffff"/>
+<style>.l{stroke:#333;stroke-width:1.4;fill:none}.a{fill:#fff;stroke:#555;stroke-width:1.2}.e{fill:#e8f0fb;stroke:#1f4e8c;stroke-width:2}.r{fill:#fdf1e3;stroke:#a85d00;stroke-width:2}text{font-size:13px;fill:#111;text-anchor:middle;dominant-baseline:central}.t{font-size:15px;font-weight:bold}.c{font-size:14px;font-weight:bold;fill:#a85d00}</style>
+<line class="l" x1="705.0" y1="191.6" x2="634.6" y2="207.6"/>
+<line class="l" x1="727.9" y1="144.0" x2="647.6" y2="115.0"/>
+<line class="l" x1="780.6" y1="144.0" x2="712.1" y2="52.2"/>
+<line class="l" x1="805.8" y1="144.0" x2="825.6" y2="56.1"/>
+<line class="l" x1="849.6" y1="144.0" x2="947.1" y2="92.9"/>
+<line class="l" x1="895.0" y1="157.4" x2="1066.1" y2="134.7"/>
+<line class="l" x1="230.9" y1="144.0" x2="168.2" y2="88.1"/>
+<line class="l" x1="279.4" y1="144.0" x2="327.6" y2="79.4"/>
+<line class="l" x1="230.9" y1="196.0" x2="168.2" y2="251.9"/>
+<line class="l" x1="279.4" y1="196.0" x2="327.6" y2="260.6"/>
+<line class="l" x1="307.9" y1="474.0" x2="199.9" y2="435.0"/>
+<line class="l" x1="285.0" y1="500.0" x2="188.0" y2="500.0"/>
+<line class="l" x1="307.9" y1="526.0" x2="199.9" y2="565.0"/>
+<line class="l" x1="356.0" y1="526.0" x2="292.0" y2="595.3"/>
+<line class="l" x1="285.0" y1="934.1" x2="179.1" y2="916.4"/>
+<line class="l" x1="290.8" y1="976.0" x2="198.7" y2="1002.8"/>
+<line class="l" x1="364.9" y1="976.0" x2="322.5" y2="1048.7"/>
+<line class="l" x1="404.0" y1="976.0" x2="476.0" y2="1053.9"/>
+<line class="l" x1="776.0" y1="694.0" x2="708.0" y2="620.4"/>
+<line class="l" x1="800.0" y1="694.0" x2="800.0" y2="570.0"/>
+<line class="l" x1="824.0" y1="694.0" x2="892.0" y2="620.4"/>
+<line class="l" x1="705.0" y1="707.4" x2="487.0" y2="678.4"/>
+<line class="l" x1="705.0" y1="727.5" x2="545.0" y2="740.0"/>
+<line class="l" x1="722.0" y1="746.0" x2="590.0" y2="790.0"/>
+<line class="l" x1="768.1" y1="746.0" x2="655.0" y2="838.0"/>
+<line class="l" x1="789.4" y1="746.0" x2="735.0" y2="880.0"/>
+<line class="l" x1="806.3" y1="746.0" x2="845.0" y2="905.0"/>
+<line class="l" x1="824.1" y1="746.0" x2="930.0" y2="860.0"/>
+<line class="l" x1="1235.1" y1="474.0" x2="1282.9" y2="391.9"/>
+<line class="l" x1="1279.4" y1="474.0" x2="1390.4" y2="425.4"/>
+<line class="l" x1="1315.0" y1="494.8" x2="1459.1" y2="486.9"/>
+<line class="l" x1="1309.2" y1="526.0" x2="1437.5" y2="563.4"/>
+<line class="l" x1="1246.0" y1="526.0" x2="1347.2" y2="627.2"/>
+<line class="l" x1="1223.6" y1="526.0" x2="1236.7" y2="619.5"/>
+<line class="l" x1="1249.1" y1="874.0" x2="1343.9" y2="789.4"/>
+<line class="l" x1="1309.2" y1="874.0" x2="1423.0" y2="840.8"/>
+<line class="l" x1="1315.0" y1="915.9" x2="1436.4" y2="936.2"/>
+<line class="l" x1="1261.6" y1="926.0" x2="1378.4" y2="999.0"/>
+<line class="l" x1="1125.0" y1="1089.5" x2="983.6" y2="1074.0"/>
+<line class="l" x1="1125.0" y1="1121.6" x2="1009.5" y2="1147.9"/>
+<line class="l" x1="1315.0" y1="1089.5" x2="1456.4" y2="1074.0"/>
+<line class="l" x1="1315.0" y1="1121.6" x2="1445.5" y2="1151.3"/>
+<line class="l" x1="705.0" y1="170.0" x2="530" y2="170"/>
+<line class="l" x1="355.0" y1="170.0" x2="530" y2="170"/>
+<line class="l" x1="766.9" y1="196.0" x2="590" y2="335"/>
+<line class="l" x1="413.1" y1="474.0" x2="590" y2="335"/>
+<line class="l" x1="833.1" y1="196.0" x2="1010" y2="335"/>
+<line class="l" x1="1186.9" y1="474.0" x2="1010" y2="335"/>
+<line class="l" x1="750.4" y1="694.0" x2="590" y2="610"/>
+<line class="l" x1="429.6" y1="526.0" x2="590" y2="610"/>
+<line class="l" x1="849.6" y1="694.0" x2="1010" y2="610"/>
+<line class="l" x1="1170.4" y1="526.0" x2="1010" y2="610"/>
+<line class="l" x1="380.0" y1="924.0" x2="380" y2="770"/>
+<line class="l" x1="380.0" y1="526.0" x2="380" y2="770"/>
+<line class="l" x1="868.2" y1="746.0" x2="1010" y2="800"/>
+<line class="l" x1="1165.4" y1="874.0" x2="1010" y2="800"/>
+<line class="l" x1="1220.0" y1="1074.0" x2="1220" y2="1000"/>
+<line class="l" x1="1220.0" y1="926.0" x2="1220" y2="1000"/>
+<polyline class="l" points="895.0,170 1640,170 1640,486"/>
+<polyline class="l" points="1640,554 1640,900 1315.0,900"/>
+<ellipse class="a" cx="634.6" cy="207.6" rx="44.1" ry="17"/>
+<text x="634.6" y="207.6" text-decoration="underline">user_id</text>
+<ellipse class="a" cx="647.6" cy="115.0" rx="52.7" ry="17"/>
+<text x="647.6" y="115.0">full_name</text>
+<ellipse class="a" cx="712.1" cy="52.2" rx="42.0" ry="17"/>
+<text x="712.1" y="52.2">email</text>
+<ellipse class="a" cx="825.6" cy="56.1" rx="69.9" ry="17"/>
+<text x="825.6" y="56.1">password_hash</text>
+<ellipse class="a" cx="947.1" cy="92.9" rx="42.0" ry="17"/>
+<text x="947.1" y="92.9">role</text>
+<ellipse class="a" cx="1066.1" cy="134.7" rx="57.0" ry="17"/>
+<text x="1066.1" y="134.7">created_at</text>
+<ellipse class="a" cx="168.2" cy="88.1" rx="42.0" ry="17"/>
+<text x="168.2" y="88.1" text-decoration="underline">log_id</text>
+<ellipse class="a" cx="327.6" cy="79.4" rx="61.3" ry="17"/>
+<text x="327.6" y="79.4">action_type</text>
+<ellipse class="a" cx="168.2" cy="251.9" rx="61.3" ry="17"/>
+<text x="168.2" y="251.9">description</text>
+<ellipse class="a" cx="327.6" cy="260.6" rx="52.7" ry="17"/>
+<text x="327.6" y="260.6">logged_at</text>
+<ellipse class="a" cx="199.9" cy="435.0" rx="65.6" ry="17"/>
+<text x="199.9" y="435.0" text-decoration="underline">admission_id</text>
+<ellipse class="a" cx="188.0" cy="500.0" rx="74.2" ry="17"/>
+<text x="188.0" y="500.0">admission_date</text>
+<ellipse class="a" cx="199.9" cy="565.0" rx="74.2" ry="17"/>
+<text x="199.9" y="565.0">discharge_date</text>
+<ellipse class="a" cx="292.0" cy="595.3" rx="42.0" ry="17"/>
+<text x="292.0" y="595.3">status</text>
+<ellipse class="a" cx="179.1" cy="916.4" rx="44.1" ry="17"/>
+<text x="179.1" y="916.4" text-decoration="underline">ward_id</text>
+<ellipse class="a" cx="198.7" cy="1002.8" rx="52.7" ry="17"/>
+<text x="198.7" y="1002.8">ward_name</text>
+<ellipse class="a" cx="322.5" cy="1048.7" rx="74.2" ry="17"/>
+<text x="322.5" y="1048.7">total_capacity</text>
+<ellipse class="a" cx="476.0" cy="1053.9" rx="69.9" ry="17"/>
+<text x="476.0" y="1053.9">occupied_beds</text>
+<ellipse class="a" cx="708.0" cy="620.4" rx="57.0" ry="17"/>
+<text x="708.0" y="620.4" text-decoration="underline">patient_id</text>
+<ellipse class="a" cx="800.0" cy="570.0" rx="57.0" ry="17"/>
+<text x="800.0" y="570.0">first_name</text>
+<ellipse class="a" cx="892.0" cy="620.4" rx="57.0" ry="17"/>
+<text x="892.0" y="620.4">created_at</text>
+<ellipse class="a" cx="487.0" cy="678.4" rx="87.1" ry="17"/>
+<text x="487.0" y="678.4">emergency_contact</text>
+<ellipse class="a" cx="545.0" cy="740.0" rx="52.7" ry="17"/>
+<text x="545.0" y="740.0">last_name</text>
+<ellipse class="a" cx="590.0" cy="790.0" rx="42.0" ry="17"/>
+<text x="590.0" y="790.0">dob</text>
+<ellipse class="a" cx="655.0" cy="838.0" rx="42.0" ry="17" stroke-dasharray="5 3"/>
+<text x="655.0" y="838.0">age</text>
+<ellipse class="a" cx="735.0" cy="880.0" rx="42.0" ry="17"/>
+<text x="735.0" y="880.0">gender</text>
+<ellipse class="a" cx="845.0" cy="905.0" rx="61.3" ry="17"/>
+<text x="845.0" y="905.0">blood_group</text>
+<ellipse class="a" cx="930.0" cy="860.0" rx="65.6" ry="17"/>
+<text x="930.0" y="860.0">phone_number</text>
+<ellipse class="a" cx="1282.9" cy="391.9" rx="44.1" ry="17"/>
+<text x="1282.9" y="391.9" text-decoration="underline">note_id</text>
+<ellipse class="a" cx="1390.4" cy="425.4" rx="78.5" ry="17"/>
+<text x="1390.4" y="425.4">chief_complaint</text>
+<ellipse class="a" cx="1459.1" cy="486.9" rx="82.8" ry="17"/>
+<text x="1459.1" y="486.9">observation_text</text>
+<ellipse class="a" cx="1437.5" cy="563.4" rx="87.1" ry="17"/>
+<text x="1437.5" y="563.4">embedding (384-d)</text>
+<ellipse class="a" cx="1347.2" cy="627.2" rx="57.0" ry="17" stroke-dasharray="5 3"/>
+<text x="1347.2" y="627.2">search_tsv</text>
+<ellipse class="a" cx="1236.7" cy="619.5" rx="57.0" ry="17"/>
+<text x="1236.7" y="619.5">created_at</text>
+<ellipse class="a" cx="1343.9" cy="789.4" rx="78.5" ry="17"/>
+<text x="1343.9" y="789.4" text-decoration="underline">prescription_id</text>
+<ellipse class="a" cx="1423.0" cy="840.8" rx="42.0" ry="17"/>
+<text x="1423.0" y="840.8">dosage</text>
+<ellipse class="a" cx="1436.4" cy="936.2" rx="48.4" ry="17"/>
+<text x="1436.4" y="936.2">quantity</text>
+<ellipse class="a" cx="1378.4" cy="999.0" rx="78.5" ry="17"/>
+<text x="1378.4" y="999.0">prescribed_date</text>
+<ellipse class="a" cx="983.6" cy="1074.0" rx="42.0" ry="17"/>
+<text x="983.6" y="1074.0" text-decoration="underline">med_id</text>
+<ellipse class="a" cx="1009.5" cy="1147.9" rx="48.4" ry="17"/>
+<text x="1009.5" y="1147.9">med_name</text>
+<ellipse class="a" cx="1456.4" cy="1074.0" rx="74.2" ry="17"/>
+<text x="1456.4" y="1074.0">stock_quantity</text>
+<ellipse class="a" cx="1445.5" cy="1151.3" rx="57.0" ry="17"/>
+<text x="1445.5" y="1151.3">unit_price</text>
+<text class="c" x="652.5" y="182.0">1</text>
+<text class="c" x="407.5" y="158.0">N</text>
+<polygon class="r" points="530,136 592,170 530,204 468,170"/>
+<text x="530" y="170" style="font-style:italic">logs</text>
+<text class="c" x="721.3" y="247.1">1</text>
+<text class="c" x="458.7" y="422.9">N</text>
+<polygon class="r" points="590,301 652,335 590,369 528,335"/>
+<text x="590" y="335" style="font-style:italic">attends</text>
+<text class="c" x="893.6" y="228.3">1</text>
+<text class="c" x="1126.4" y="441.7">N</text>
+<polygon class="r" points="1010,301 1072,335 1010,369 948,335"/>
+<text x="1010" y="335" style="font-style:italic">writes</text>
+<text class="c" x="696.7" y="679.4">1</text>
+<text class="c" x="483.3" y="540.6">N</text>
+<polygon class="r" points="590,576 652,610 590,644 528,610"/>
+<text x="590" y="610" style="font-style:italic">has</text>
+<text class="c" x="892.2" y="658.2">1</text>
+<text class="c" x="1127.8" y="561.8">N</text>
+<polygon class="r" points="1010,576 1072,610 1010,644 948,610"/>
+<text x="1010" y="610" style="font-style:italic">describes</text>
+<text class="c" x="368.0" y="877.8">1</text>
+<text class="c" x="392.0" y="599.2">N</text>
+<polygon class="r" points="380,736 442,770 380,804 318,770"/>
+<text x="380" y="770" style="font-style:italic">houses</text>
+<text class="c" x="915.0" y="751.0">1</text>
+<text class="c" x="1113.6" y="862.6">N</text>
+<polygon class="r" points="1010,766 1072,800 1010,834 948,800"/>
+<text x="1010" y="800" style="font-style:italic">receives</text>
+<text class="c" x="1208.0" y="1051.8">1</text>
+<text class="c" x="1232.0" y="948.2">N</text>
+<polygon class="r" points="1220,966 1282,1000 1220,1034 1158,1000"/>
+<text x="1220" y="1000" style="font-style:italic">contains</text>
+<text class="c" x="1654" y="210">1</text>
+<text class="c" x="1345.0" y="886">N</text>
+<polygon class="r" points="1640,486 1702,520 1640,554 1578,520"/>
+<text x="1640" y="520" style="font-style:italic">issues</text>
+<rect class="e" x="705.0" y="144.0" width="190" height="52"/>
+<text class="t" x="800" y="170">USERS</text>
+<rect class="e" x="165.0" y="144.0" width="190" height="52"/>
+<text class="t" x="260" y="170">AUDIT_LOGS</text>
+<rect class="e" x="285.0" y="474.0" width="190" height="52"/>
+<text class="t" x="380" y="500">ADMISSIONS</text>
+<rect class="e" x="285.0" y="924.0" width="190" height="52"/>
+<text class="t" x="380" y="950">WARDS</text>
+<rect class="e" x="705.0" y="694.0" width="190" height="52"/>
+<text class="t" x="800" y="720">PATIENTS</text>
+<rect class="e" x="1125.0" y="474.0" width="190" height="52"/>
+<text class="t" x="1220" y="500">CLINICAL_NOTES</text>
+<rect class="e" x="1125.0" y="874.0" width="190" height="52"/>
+<text class="t" x="1220" y="900">PRESCRIPTIONS</text>
+<rect class="e" x="1125.0" y="1074.0" width="190" height="52"/>
+<text class="t" x="1220" y="1100">MEDICATIONS</text>
+<text x="24" y="30" style="font-size:20px;font-weight:bold;text-anchor:start">MedGraph: ER diagram (Chen notation)</text>
+<text x="24" y="1130" style="font-size:13px;text-anchor:start;fill:#444">Rectangle = entity, diamond = relationship, oval = attribute</text>
+<text x="24" y="1150" style="font-size:13px;text-anchor:start;fill:#444">Underlined = primary key; dashed oval = derived attribute (age from dob, search_tsv generated from note text)</text>
+<text x="24" y="1170" style="font-size:13px;text-anchor:start;fill:#444">USERS covers both roles (DOCTOR, ADMIN); attends / writes / issues require role = DOCTOR (trigger)</text>
+</svg>

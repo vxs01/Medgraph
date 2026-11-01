@@ -1,0 +1,36 @@
+
+> medgraph@1.0.0 test:db
+> node scripts/test-db.mjs --model
+
+dtype not specified for "model". Using the default dtype (fp32) for this device (cpu).
+T01  PASS  Occupied beds cannot exceed ward capacity                            
+T02  PASS  Invalid blood group is rejected                                      
+T03  PASS  Malformed phone number is rejected                                   
+T04  PASS  Negative stock and zero price are rejected                           
+T05  PASS  Duplicate email and invalid role are rejected                        
+T06  PASS  Foreign key blocks a note for an unknown patient                     
+T07  PASS  Discharge cannot precede admission; status must match dates          
+T08  PASS  Prescription quantity limit added later with ALTER TABLE             
+T09  PASS  Only DOCTOR accounts can be the responsible doctor                   
+T10  PASS  Admit and discharge keep occupied_beds in step                       
+T11  PASS  Admitting into a full ward fails with MG001                          
+T12  PASS  A patient cannot have two active admissions                          
+T13  PASS  transfer_patient moves the bed count from one ward to the other      
+T14  PASS  transfer_patient into a full ward fails and changes nothing          
+T15  PASS  Prescribing reduces stock; too large a quantity fails with MG004     
+T16  PASS  Deleting a prescription gives the stock back                         
+T17  PASS  Audit rows record the acting user (app.user_id) for update and delete
+T18  PASS  Deleting a patient cascades to notes, admissions and prescriptions   
+T19  PASS  Inserting a clinical note writes an audit row                        
+T20  PASS  All views return rows and stored bed counts match reality            
+T21  PASS  B-tree, partial, GIN and HNSW indexes exist                          
+T22  PASS  Full-text search with stemming and ranking                           
+T23  PASS  Passwords are bcrypt hashes                                          
+T24  PASS  Every note has a 384-dimension embedding                             
+T25  PASS  Every statement in sql/06_queries.sql runs                           
+T26  PASS  Every statement in sql/07_dml_examples.sql runs                      
+T27  PASS  Every statement in sql/09_explain.sql runs                           
+T28  PASS  Semantic search ranks the memory-loss note first for a paraphrase    
+T29  PASS  Semantic search finds a note that keyword search misses              
+
+29/29 passed

@@ -1,0 +1,21 @@
+
+> medgraph@1.0.0 demo:explain
+> node scripts/explain-demo.mjs
+
+Generating 50,000 patients ...
+
+B-tree expression index on lower(last_name), about 10 matching rows out of 50,000:
+  index disabled (forced seq scan)   Seq Scan on patients                                           Execution Time: 9.021 ms
+  index available                    Bitmap Heap Scan on patients                                   Execution Time: 0.040 ms
+
+Partial index (only ADMITTED rows) is tiny compared with the whole admissions table:
+  partial index 16 kB   vs   full index on a different column 16 kB
+
+Generating 5,000 notes with random 384-dimension vectors ...
+
+Nearest 5 notes by cosine distance:
+  exact: scan every row and sort     ->  Seq Scan on clinical_notes                                 Execution Time: 2.340 ms
+  approximate: HNSW index            ->  Index Scan using idx_notes_embedding_hnsw on clinical_notes Execution Time: 1.221 ms
+  (HNSW trades a little accuracy for speed; random vectors are the worst case for it.)
+
+Rolled back: no data was kept.
